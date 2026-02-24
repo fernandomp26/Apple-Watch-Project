@@ -6,7 +6,7 @@
 body {
    height: 100vh;
    min-width: 100%;
-   font-family: "SF Pro Display";
+   font-family: "SF Pro Display", sans-serif;
    display: flex;
    flex-direction: column;
    align-items: center;
@@ -259,4 +259,5 @@ main .infos p.title {
    nav {
       display: none;
    }
+
 }
